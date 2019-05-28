@@ -1,3 +1,4 @@
+// 3-4-7から
 use super::SortOrder;
 // 昇順降順をenumで指定
 pub fn sort<T: Ord>(x:&mut[T],order:&SortOrder){
